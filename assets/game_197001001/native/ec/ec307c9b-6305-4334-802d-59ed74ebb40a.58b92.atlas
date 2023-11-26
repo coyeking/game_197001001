@@ -1,0 +1,286 @@
+
+chuntian.png
+size: 901,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 38, 96
+  size: 168, 167
+  orig: 172, 171
+  offset: 2, 2
+  index: -1
+gold1
+  rotate: false
+  xy: 849, 118
+  size: 41, 23
+  orig: 42, 24
+  offset: 0, 1
+  index: -1
+gold2
+  rotate: true
+  xy: 827, 59
+  size: 24, 29
+  orig: 25, 30
+  offset: 0, 1
+  index: -1
+gold3
+  rotate: false
+  xy: 834, 19
+  size: 31, 33
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+gold4
+  rotate: false
+  xy: 88, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+gold41
+  rotate: true
+  xy: 867, 28
+  size: 24, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+gold5
+  rotate: true
+  xy: 787, 100
+  size: 41, 29
+  orig: 43, 31
+  offset: 1, 2
+  index: -1
+gold51
+  rotate: true
+  xy: 796, 57
+  size: 41, 29
+  orig: 44, 31
+  offset: 1, 2
+  index: -1
+gold52
+  rotate: true
+  xy: 858, 54
+  size: 29, 37
+  orig: 33, 42
+  offset: 3, 3
+  index: -1
+gold53
+  rotate: true
+  xy: 803, 16
+  size: 39, 29
+  orig: 41, 32
+  offset: 2, 2
+  index: -1
+gold54
+  rotate: false
+  xy: 818, 100
+  size: 29, 41
+  orig: 31, 43
+  offset: 2, 1
+  index: -1
+huarui
+  rotate: true
+  xy: 120, 2
+  size: 22, 20
+  orig: 24, 22
+  offset: 1, 1
+  index: -1
+huarui1
+  rotate: true
+  xy: 120, 2
+  size: 22, 20
+  orig: 24, 22
+  offset: 1, 1
+  index: -1
+huarui2
+  rotate: true
+  xy: 120, 2
+  size: 22, 20
+  orig: 24, 22
+  offset: 1, 1
+  index: -1
+huarui3
+  rotate: true
+  xy: 120, 2
+  size: 22, 20
+  orig: 24, 22
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 343, 8
+  size: 142, 95
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+pink1
+  rotate: true
+  xy: 247, 62
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+pink11
+  rotate: true
+  xy: 849, 85
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+pink2
+  rotate: false
+  xy: 761, 2
+  size: 40, 30
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+pink21
+  rotate: false
+  xy: 761, 34
+  size: 33, 41
+  orig: 33, 43
+  offset: 0, 1
+  index: -1
+pink3
+  rotate: false
+  xy: 243, 5
+  size: 47, 33
+  orig: 47, 35
+  offset: 0, 1
+  index: -1
+pink4
+  rotate: true
+  xy: 710, 72
+  size: 53, 44
+  orig: 55, 47
+  offset: 1, 2
+  index: -1
+pink41
+  rotate: false
+  xy: 156, 38
+  size: 40, 56
+  orig: 42, 58
+  offset: 1, 1
+  index: -1
+pink42
+  rotate: false
+  xy: 710, 19
+  size: 49, 51
+  orig: 51, 53
+  offset: 0, 1
+  index: -1
+pink5
+  rotate: true
+  xy: 156, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+pink53
+  rotate: true
+  xy: 156, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+pink51
+  rotate: true
+  xy: 756, 77
+  size: 48, 29
+  orig: 49, 30
+  offset: 1, 1
+  index: -1
+pink52
+  rotate: false
+  xy: 202, 2
+  size: 39, 36
+  orig: 41, 38
+  offset: 2, 1
+  index: -1
+spring
+  rotate: true
+  xy: 2, 95
+  size: 169, 34
+  orig: 169, 34
+  offset: 0, 0
+  index: -1
+spring2
+  rotate: true
+  xy: 292, 5
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+xl/xl1
+  rotate: true
+  xy: 198, 40
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+xl/xl10
+  rotate: true
+  xy: 352, 110
+  size: 154, 151
+  orig: 154, 159
+  offset: 0, 0
+  index: -1
+xl/xl2
+  rotate: true
+  xy: 88, 26
+  size: 68, 66
+  orig: 69, 66
+  offset: 1, 0
+  index: -1
+xl/xl3
+  rotate: false
+  xy: 2, 9
+  size: 84, 84
+  orig: 85, 84
+  offset: 1, 0
+  index: -1
+xl/xl4
+  rotate: false
+  xy: 487, 4
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+xl/xl5
+  rotate: true
+  xy: 593, 2
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+xl/xl6
+  rotate: true
+  xy: 772, 143
+  size: 121, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+xl/xl7
+  rotate: false
+  xy: 640, 127
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+xl/xl8
+  rotate: false
+  xy: 505, 116
+  size: 133, 148
+  orig: 134, 148
+  offset: 1, 0
+  index: -1
+xl/xl9
+  rotate: false
+  xy: 207, 105
+  size: 143, 159
+  orig: 144, 159
+  offset: 1, 0
+  index: -1

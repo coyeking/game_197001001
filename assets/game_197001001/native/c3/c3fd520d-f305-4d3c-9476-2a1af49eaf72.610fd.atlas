@@ -1,0 +1,160 @@
+
+primary.png
+size: 913,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/slice01
+  rotate: false
+  xy: 459, 167
+  size: 155, 147
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice02
+  rotate: false
+  xy: 607, 11
+  size: 155, 146
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice03
+  rotate: true
+  xy: 764, 2
+  size: 155, 146
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice04
+  rotate: true
+  xy: 765, 159
+  size: 155, 146
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice05
+  rotate: false
+  xy: 152, 33
+  size: 155, 147
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice06
+  rotate: true
+  xy: 636, 316
+  size: 155, 148
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice07
+  rotate: true
+  xy: 710, 605
+  size: 155, 148
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice08
+  rotate: false
+  xy: 2, 189
+  size: 155, 148
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice09
+  rotate: true
+  xy: 159, 182
+  size: 155, 148
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice10
+  rotate: true
+  xy: 309, 25
+  size: 155, 147
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice11
+  rotate: true
+  xy: 616, 159
+  size: 155, 147
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice12
+  rotate: true
+  xy: 2, 32
+  size: 155, 148
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice13
+  rotate: true
+  xy: 458, 10
+  size: 155, 147
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice14
+  rotate: true
+  xy: 485, 316
+  size: 155, 149
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+fx/slice15
+  rotate: true
+  xy: 309, 182
+  size: 155, 148
+  orig: 163, 158
+  offset: 4, 5
+  index: -1
+slice02_02
+  rotate: false
+  xy: 809, 494
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+slice07_07
+  rotate: true
+  xy: 809, 536
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+slice13_13
+  rotate: false
+  xy: 710, 474
+  size: 77, 34
+  orig: 78, 34
+  offset: 1, 0
+  index: -1
+slice14_14
+  rotate: true
+  xy: 485, 473
+  size: 287, 223
+  orig: 288, 223
+  offset: 1, 0
+  index: -1
+slice16_16
+  rotate: true
+  xy: 710, 510
+  size: 93, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+slice21_21
+  rotate: false
+  xy: 786, 373
+  size: 86, 99
+  orig: 86, 102
+  offset: 0, 2
+  index: -1
+slice30_30
+  rotate: false
+  xy: 2, 339
+  size: 481, 421
+  orig: 486, 426
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,83 @@
+
+ddz_logo.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddz_logo_cn
+  rotate: false
+  xy: 2, 506
+  size: 406, 212
+  orig: 406, 212
+  offset: 0, 0
+  index: -1
+doudizhuG_00001
+  rotate: false
+  xy: 410, 416
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00002
+  rotate: false
+  xy: 2, 354
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00003
+  rotate: true
+  xy: 254, 254
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00004
+  rotate: false
+  xy: 2, 202
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00005
+  rotate: true
+  xy: 254, 2
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00006
+  rotate: false
+  xy: 2, 50
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00007
+  rotate: false
+  xy: 406, 264
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00008
+  rotate: true
+  xy: 406, 12
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00009
+  rotate: true
+  xy: 558, 12
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+doudizhuG_00010
+  rotate: false
+  xy: 410, 568
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+wbomb.png
+size: 940,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb
+  rotate: false
+  xy: 196, 2
+  size: 168, 30
+  orig: 168, 30
+  offset: 0, 0
+  index: -1
+slice05_05
+  rotate: false
+  xy: 366, 3
+  size: 117, 47
+  orig: 117, 48
+  offset: 0, 1
+  index: -1
+slice06_06
+  rotate: true
+  xy: 547, 16
+  size: 67, 151
+  orig: 67, 151
+  offset: 0, 0
+  index: -1
+xl/bomb00
+  rotate: true
+  xy: 848, 28
+  size: 99, 68
+  orig: 256, 210
+  offset: 83, 53
+  index: -1
+xl/bomb01
+  rotate: true
+  xy: 699, 114
+  size: 141, 116
+  orig: 256, 210
+  offset: 62, 36
+  index: -1
+xl/bomb02
+  rotate: true
+  xy: 2, 21
+  size: 234, 192
+  orig: 256, 210
+  offset: 15, 5
+  index: -1
+xl/bomb03
+  rotate: true
+  xy: 547, 85
+  size: 170, 150
+  orig: 256, 210
+  offset: 45, 33
+  index: -1
+xl/bomb04
+  rotate: true
+  xy: 196, 34
+  size: 221, 167
+  orig: 256, 210
+  offset: 18, 11
+  index: -1
+xl/bomb05
+  rotate: true
+  xy: 365, 52
+  size: 203, 180
+  orig: 256, 210
+  offset: 30, 25
+  index: -1
+xl/bomb06
+  rotate: false
+  xy: 700, 3
+  size: 146, 109
+  orig: 256, 210
+  offset: 60, 49
+  index: -1
+xl/bomb07
+  rotate: true
+  xy: 817, 129
+  size: 126, 121
+  orig: 256, 210
+  offset: 70, 50
+  index: -1
+xl/bomb08
+  rotate: false
+  xy: 2, 3
+  size: 78, 16
+  orig: 256, 210
+  offset: 94, 55
+  index: -1
